@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher", "Teacher\Teacher.csproj", "{C5196755-4B68-4EDF-B32A-2758BD6D0EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5196755-4B68-4EDF-B32A-2758BD6D0EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5196755-4B68-4EDF-B32A-2758BD6D0EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5196755-4B68-4EDF-B32A-2758BD6D0EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5196755-4B68-4EDF-B32A-2758BD6D0EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
